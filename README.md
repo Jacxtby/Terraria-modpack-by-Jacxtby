@@ -125,6 +125,11 @@
 107. Mount and Journey          					by Qz
 108. Exotic Life Fruits          					by Moker
 109. Moon Heart Life Upgrade          				by PronoesPro
+110. Wing Slot Extra								by Aitherix
+111. Accessories+									by Destructor_Ben
+112. Mod of Headshots								by onlyenot
+113. Sunflower Lord									by PATJUST
+114. Teach The Angler to Fish						by i aquito
 
 <!-- I highly recommend combining this modpack with a few others from the list below. -->
 
