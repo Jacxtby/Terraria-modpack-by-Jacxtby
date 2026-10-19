@@ -101,106 +101,51 @@
 83. Stataria          								by KQE
 84. Structure Helper          						by ScalarVector
 85. Subworld Library          						by John Snail
-86. Terraria Overhaul          						by Mirsario
-87. The Shop Market          						by Jacklz
-88. Thorium Mod          							by DivermanSam & the Goons
-89. Tianic's Custom Races          					by Tianic
-90. Tile Functions Library          				by Snek
-91. Torch God Tweaks          						by direwolf420
-92. Travelling Merchant Sells More Items          	by tieeeeen1994
-93. Unlimited Crystals          					by BlinDeex
-94. Useful NPCs          							by Gortart & Lonely Star
-95. {VSC Framework} Dialect          				by the pixelated Sign Painter
-96. Where's My Items          						by jopojelly & alienmist325
-97. WiK's Weapon Scaling          					by WIK & Suweeka
-98. Wing Slot          								by abluescarab
-99. Wombat's General Improvements          			by Wombat
-100. Yagunmu Boss / Yharim Boss          			by Codex
-101. Starter Class          						by Rafadesuyo
-102. Ore Processing Mod          					by 20jonas02
-103. Stockable Shops          					    by GabeHasWon
-104. Auto Reforge          						    by Sad Onion
-105. Housing API          							by the Path Of Terraria Team
-106. Echoes of the Ancients          				by RandomZachOfKindness et al.
-107. Mount and Journey          					by Qz
-108. Exotic Life Fruits          					by Moker
-109. Moon Heart Life Upgrade          				by PronoesPro
-110. Wing Slot Extra								by Aitherix
-111. Accessories+									by Destructor_Ben
-112. Mod of Headshots								by onlyenot
-113. Sunflower Lord									by PATJUST
-114. Teach The Angler to Fish						by i aquito
+86. The Shop Market          						by Jacklz
+87. Thorium Mod          							by DivermanSam & the Goons
+88. Tianic's Custom Races          					by Tianic
+89. Tile Functions Library          				by Snek
+90. Torch God Tweaks          						by direwolf420
+91. Travelling Merchant Sells More Items          	by tieeeeen1994
+92. Unlimited Crystals          					by BlinDeex
+93. Useful NPCs          							by Gortart & Lonely Star
+94. {VSC Framework} Dialect          				by the pixelated Sign Painter
+95. Where's My Items          						by jopojelly & alienmist325
+96. WiK's Weapon Scaling          					by WIK & Suweeka
+97. Wing Slot          								by abluescarab
+98. Wombat's General Improvements          			by Wombat
+99. Yagunmu Boss / Yharim Boss          			by Codex
+100. Starter Class          						by Rafadesuyo
+101. Ore Processing Mod          					by 20jonas02
+102. Stockable Shops          					    by GabeHasWon
+103. Auto Reforge          						    by Sad Onion
+104. Housing API          							by the Path Of Terraria Team
+105. Echoes of the Ancients          				by RandomZachOfKindness et al.
+106. Mount and Journey          					by Qz
+107. Exotic Life Fruits          					by Moker
+108. Moon Heart Life Upgrade          				by PronoesPro
+109. Wing Slot Extra								by Aitherix
+110. Accessories+									by Destructor_Ben
+111. Mod of Headshots								by onlyenot
+112. Sunflower Lord									by PATJUST
+113. Teach The Angler to Fish						by i aquito
+114. New Beginnings									by Team Spirit
 
-<!-- I highly recommend combining this modpack with a few others from the list below. -->
+### Recommended Mods / Addons:
 
-### 🌟 Recommended Add-on Mods (Optional)
-*(These are not included in the main modpack configuration, but you can add few of them as extra expansions!)*
-
-#### ⚔️ Challenge Mods
-* Block Hunt  										by GabeHasWon
-* Tile Locked World  								by Sinz
-* Grid Block  										by instrex & Molvine
-* Solar Apocalypse  								by Pointy Orb
-* Chaos Loot  										by Lucas
-* The Bots											by Rose
-* Zombie Apocalypse  								by alfuwu
-* The Floor is Lava  								by alfuwu
-* Random Events!  									by MooMoo
-* Skyblock Seed  									by jokermeng
-* TerRoguelike  									by AquaSG
-* Thanos' Snap Challenge  							by Danza
-* Chests Begone  									by sleeper05
-* Armed Zombies!  									by LevitatingGT
-* Terraria Random Loot  							by ShadoW
-* Vertical Wall of Flesh  							by Nikatski
-* ClassLock  										by goku
-* ClassLock Duo  									by ProChaoS
-* Pacifist Route  									by GabeHasWon & Sivaexo
-
-#### 🛡️ Class Mods
-* More Sentries  									by GabeHasWon
-* Telekinesis Earth Mod 						 	by Claude
-* TY's Yoyo Redux 	 								by Typhlosionater & stormytuna
-* Class Plus Mod  									by Mofly Team
-* Unusacies' Battle Rods Re-Balanced  				by Unusacies & JPAN
-* Calamity Battle Rods (Unusacies Addon)  			by ScuttleBaka
-* Split  											by Doctor Hummer et al.
-* Secrets Of The Shadows  							by Vortex Of Rainbows
-* Metroid Mod 	 									by Scooterboot9697 et al.
-* Shards of Atheria (Sins & Virtues part 3)  		by Rockman Zeta
-* Mod of Redemption									by Halm & Tied
-* Orchid Mod										by Verveine & Amber
-* Bombus Apis										by SkippZz
-* Tank Class										by Matthew
-* Zapper Class										by Moonsin
-* Aura Class 										by Kr3atif
-* Druid Class										by HomeMaster
-* Thorner Class										by EtU
-* Lifesteal Class Mod								by Sir Meempo
-* The Dealer Class									by Twikker
-* Blade Dancer Class								by nakamurash artist = LDrewcifer
-* Teleport Class									by Scryv
-* Fist Class										by Jolten
-* The Shield Class									by YourDed4dey
-* Slasher Class										by bacca
-* Chance Class Mod									by Arctracer
-* Capture Disc Class								by BlockCrusader
-* Portaller Class Mod								by TarantulaGames
-* TNTerraria (Demolisher Class)						by TNTerraria Team
-* The Clicker Class									by DivermanSam et al.
-* The Stars Above 									by PaperLuigi
-* The Amulet Of Many Minions: Combat Pets!			by billybobmcbo et al.
-* Uknoundusty's Bell Subclass						by Uknoundusty
-* PalMod (Summoner Subclass)						by Verveine
-* New Beginnings									by Team Spirit
-* Warlock Mod										by del009
-* Dragon Ball Terraria Legacy						by FullNovaAlchemist et al.
-* Edorbis											by Firefloy
-* Cerebral Mod										by LadyLone
-* Sticks Of Life (Legacy)							by Kerm
-* ChargerClass										by SST Studios
-* Pokemod											by Eevster
-* Calamity Flamethrowers 							by YuH
-* FlameThrowers+									by Lil Chief
-* Sharky											by osmiumdust, LDAnvil
-* Infinite Minions									by Volt
+115. Terminal Cheat Mod								by LofkaMod			
+116. Armed Zombies!  								by LevitatingGT
+117. Pacifist Route  								by GabeHasWon & Sivaexo
+118. More Sentries  								by GabeHasWon
+119. TY's Yoyo Redux 	 							by Typhlosionater & stormytuna
+120. Mod of Redemption								by Halm & Tied
+121. Bombus Apis									by SkippZz
+122. The Clicker Class								by DivermanSam et al.
+123. The Stars Above 								by PaperLuigi
+124. FlameThrowers+									by Lil Chief
+125. Sharky											by osmiumdust, LDAnvil
+126. Infinite Minions								by Volt
+127. Mechanica										by by MichaelZ
+128. Borderlands Death System ( Bordereal )			by Bordereal Studio
+129. Terraria Borderlands Mod						by Cche3414
+130. Vaultaria										by Doctor Zeus
