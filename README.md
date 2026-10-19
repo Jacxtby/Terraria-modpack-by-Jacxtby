@@ -8,13 +8,15 @@
 
 ---------------------------------------INSTRUCTIONS-------------------------------------------
 
-[1]  Make sure you have Terraria (v1.4.4.9) and the latest version of tModLoader installed via Steam.
+[1]  Make sure you have Terraria (v1.4.5.8) and the latest version of tModLoader installed via Steam.
 [2]  Download or clone this repository.
 [3]  Copy the "enabled.json" file from this repository and paste it into your tModLoader mods folder:
      Documents\My Games\Terraria\tModLoader\Mods
 [4]  Launch tModLoader. The game will automatically detect and download the required mods from the list below!
 
 ------------------------------------------MODLIST---------------------------------------------
+
+### Base Mods
 
 1. absoluteAquarian Utilities          				by absoluteAquarian
 2. Achievement Mod          						by metalkingpig
